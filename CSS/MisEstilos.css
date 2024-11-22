@@ -1,0 +1,116 @@
+/*Titulo*/
+h1{
+    color:rgb(59, 61, 187);
+    background-color:rgb(135, 221, 221);
+    text-align: center;
+    border-radius: 20px;
+}
+
+/*Nombre y Titulos de las secciones*/
+h2{
+    color: darkblue;
+    background-color: lightgray;
+    text-align: center;
+}
+
+/*Logo*/
+.logo{
+    margin:auto;
+    width: 200px;
+    height: 300px;
+    border-radius: 20%;
+ }
+#ImagenUno{
+    margin: 10px 50px;
+    background-color: rgb(167, 167, 167);
+    height: 270px;
+    border-radius: 50px;
+}
+
+/*Foto*/
+.foto{
+    margin:auto;
+    width: 200px;
+    height: 300px;
+    border-radius: 20%;
+}
+#ImagenDos{
+    margin: 10px 50px;
+    background-color: rgb(167, 167, 167);
+    height: 226px;
+    border-radius: 50px;
+}
+    
+/*Menus de Navegacion*/
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    list-style:upper-roman;
+    color: rgb(0, 0, 0);
+}
+li a{
+    color: rgb(0, 0, 0);
+    text-decoration:double;
+}
+
+/*Contenido de las secciones*/
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkcyan;
+    text-decoration:underline;
+    background-color: whitesmoke;
+}
+h4{
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+/*Tablas*/
+th{
+    color:rgb(255, 255, 255);
+    background-color:gray;
+    font-style:unset;
+}
+td{
+    background-color: lightgray;
+}
+
+/*Imagenes*/
+.primera{
+    margin:10px;
+    float: left;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+#Uno{
+    margin: 15px;
+    width: 540px;
+    height: 180px;
+    background-color:darkslateblue;
+    border-width: 20px;
+    border-style:ridge;
+    border-color:darkgray
+}
+.segunda{
+    margin:10px;
+    float: left;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+#Dos{
+    margin: 15px;
+    width: 540px;
+    height: 180px;
+    background-color:darkslateblue;
+    border-width: 20px;
+    border-style:ridge;
+    border-color:darkgray
+}
